@@ -26,7 +26,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const data = await resend.emails.send({
       from: 'Hello <noreply@blockchain-cie.com>',
       to: [`${process.env.TO_EMAIL}`],
-      subject: `🎉New submission from ${senderName} to Blockchain & Cie`,
+      subject: `🎉New submission from ${senderName} to Blockchain & Jordan`,
       react: EmailTemplate({
         senderName,
         senderEmail,

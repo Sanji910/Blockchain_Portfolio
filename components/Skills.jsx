@@ -13,6 +13,10 @@ import NextJS from '@/public/assets/skills/nextjs.png';
 import Solidity from '@/public/assets/skills/solidity.png';
 import Hardhat from '@/public/assets/skills/hardhat.png';
 import Openzeppelin from '@/public/assets/skills/openzeppelin.png';
+import Web3 from '@/public/assets/skills/icons8-web3-64.png'
+import Typescript from '@/public/assets/skills/icons8-typescript-96(-xxxhdpi).png'
+import Redux from '@/public/assets/skills/icons8-redux-an-open-source-javascript-library-for-managing-application-state-96(-xxxhdpi).png'
+import CryptoCurrency from '@/public/assets/skills/icons8-crypto-currency-64.png'
 
 // MAIN FUNCTION
 export default function Skills() {
@@ -221,6 +225,74 @@ export default function Skills() {
               <div className='flex flex-col items-center justify-center'>
                 <h3 className='truncate whitespace-nowrap max-w-full'>
                   MongoDB
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image
+                  src={Web3}
+                  width='111px'
+                  height='111px'
+                  alt='/'
+                />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3 className='truncate whitespace-nowrap max-w-full'>
+                  Web3
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image
+                  src={Typescript}
+                  width='111px'
+                  height='111px'
+                  alt='/'
+                />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3 className='truncate whitespace-nowrap max-w-full'>
+                  TypeScript
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image
+                  src={Redux}
+                  width='111px'
+                  height='111px'
+                  alt='/'
+                />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3 className='truncate whitespace-nowrap max-w-full'>
+                  Redux
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 align-center justify-center flex'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image
+                  src={CryptoCurrency}
+                  width='111px'
+                  height='111px'
+                  alt='/'
+                />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3 className='truncate whitespace-nowrap max-w-full'>
+                  Crypto Currency
                 </h3>
               </div>
             </div>

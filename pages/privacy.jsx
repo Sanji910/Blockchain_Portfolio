@@ -10,12 +10,12 @@ export default function PrivacyPolicy() {
     <>
       <Head>
         <title>
-          Blockchain & Cie | Fullstack Blockchain Development Company
+          Blockchain & Jordan | Fullstack Blockchain Development Company
           | Antoine Delamare
         </title>
         <meta
           name='description'
-          content='Blockchain & Cie is specializing in building (and occasionally designing) exceptional decentralized digital experiences using web3/blockchain technologies.'
+          content='Blockchain & Jordan is specializing in building (and occasionally designing) exceptional decentralized digital experiences using web3/blockchain technologies.'
         />
         <link rel='icon' href='/fav.png' />
       </Head>
@@ -27,7 +27,7 @@ export default function PrivacyPolicy() {
           Privacy Policy
         </h2>
         <div className='my-4 p-4 w-full flex justify-between items-center col-span-3 lg:col-span-2 h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
-          <h2 className='text-center'>Blockchain & Cie.</h2>
+          <h2 className='text-center'>Blockchain & Jordan.</h2>
           <div className='flex'>
             <Link
               href='https://www.linkedin.com/company/blockchain-cie/'
@@ -118,7 +118,7 @@ export default function PrivacyPolicy() {
         <div className='flex justify-center py-6'>
           <div className='flex flex-col items-center'>
             <p>
-              &copy; <strong> Blockchain & Cie.</strong> | All Rights
+              &copy; <strong> Blockchain & Jordan.</strong> | All Rights
               Reserved. | Last updated: {new Date().getFullYear()}
             </p>
           </div>

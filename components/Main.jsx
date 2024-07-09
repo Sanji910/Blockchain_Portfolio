@@ -18,7 +18,7 @@ export default function Main() {
 
           <h1 className='py-4 text-gray-700'>
             Welcome to
-            <span className='text-[#5651e5]'> Blockchain & Cie</span>
+            <span className='text-[#5651e5]'> Blockchain & Jordan</span>
           </h1>
           <h1 className='py-2 text-gray-700'>Your web3 dev studio</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>

@@ -14,12 +14,11 @@ export default function Home() {
     <main className='flex min-h-screen flex-col items-center justify-between'>
       <Head>
         <title>
-          Blockchain & Cie | Fullstack Blockchain Development Company
-          | Antoine Delamare
+          Blockchain & Jordan | Fullstack Blockchain Development Company
         </title>
         <meta
           name='description'
-          content='Blockchain & Cie is specializing in building (and occasionally designing) exceptional decentralized digital experiences using web3/blockchain technologies.'
+          content='Blockchain & Jordan is specializing in building (and occasionally designing) exceptional decentralized digital experiences using web3/blockchain technologies.'
         />
         <link rel='icon' href='/fav.png' />
       </Head>

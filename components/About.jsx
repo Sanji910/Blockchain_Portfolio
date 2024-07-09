@@ -18,10 +18,10 @@ export default function About() {
           </p>
           <h2 className='py-4'>Who We Are</h2>
           <p className='py-2 text-gray-600'>
-            Blockchain & Cie is a french company specialized in
+            Blockchain & Jordan is a french company specialized in
             building back-end technologies such as blockchain inside
             mobile responsive front-end UI applications. Blockchain &
-            Cie represents a group of passionate developers
+            Jordan represents a group of passionate developers
             understanding there is more than one way to accomplish a
             task. Though we are most proficient in building front-end
             applications using HTML, CSS, Javascript, React & Next.js,
@@ -52,7 +52,7 @@ export default function About() {
               rel='noreferrer'>
               The Acadee I.A. & Web3 Academy
             </Link>
-            , Blockchain & Cie brings its expertise to provide
+            , Blockchain & Jordan brings its expertise to provide
             innovative solutions like supply chain tracking, online
             voting systems, and even property registries, showcasing
             versatility and applicability across various domains.

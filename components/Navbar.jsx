@@ -47,11 +47,11 @@ export default function Navbar() {
         <Link href='/'>
           <Image
             src={NavLogo}
-            width={200}
-            height='auto'
+            // width={100}
+            // height={100}
             priority={true}
             alt='/'
-            className='cursor-pointer object-cover'
+            className='cursor-pointer object-cover w-15 h-15 p-15'
           />
         </Link>
 

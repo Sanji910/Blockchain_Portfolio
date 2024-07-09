@@ -45,7 +45,7 @@ export const EmailTemplate: React.FC<EmailTemplateProps> = ({
           <p className='text-gray-600 text-sm'>
             Regards,
             <br />
-            Blockchain & Cie.✨
+            Blockchain & Jordan.✨
           </p>
         </div>
       </div>

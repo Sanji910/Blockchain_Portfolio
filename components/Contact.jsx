@@ -123,7 +123,7 @@ export default function Contact() {
                 />
               </div>
               <div>
-                <h2 className='py-2'>Blockchain & Cie</h2>
+                <h2 className='py-2'>Blockchain & Jordan</h2>
                 <p>Fullstack Blockchain Development Company</p>
                 <p className='py-4'>
                   Available for full remote freelance positions.
@@ -287,7 +287,7 @@ export default function Contact() {
           <div className='flex flex-col items-center'>
             <p>
               &copy; {new Date().getFullYear()} |
-              <strong> Blockchain & Cie.</strong> | All Rights
+              <strong> Blockchain & Jordan.</strong> | All Rights
               Reserved.
             </p>
             <div className='flex mt-2 text-[#5651e5]'>

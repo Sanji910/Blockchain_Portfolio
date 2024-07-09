@@ -9,10 +9,10 @@ export default function LegalNotice() {
   return (
     <>
       <Head>
-        <title>Legal Notice | Blockchain & Cie</title>
+        <title>Legal Notice | Blockchain & Jordan</title>
         <meta
           name='description'
-          content='Legal information about Blockchain & Cie'
+          content='Legal information about Blockchain & Jordan'
         />
         <link rel='icon' href='/fav.png' />
       </Head>
@@ -24,7 +24,7 @@ export default function LegalNotice() {
           Legal Notice
         </h2>
         <div className='my-4 p-4 w-full flex justify-between items-center col-span-3 lg:col-span-2 h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
-          <h2 className='text-center'>Blockchain & Cie.</h2>
+          <h2 className='text-center'>Blockchain & Jordan.</h2>
           <div className='flex'>
             <Link
               href='https://www.linkedin.com/company/blockchain-cie/'
@@ -45,7 +45,7 @@ export default function LegalNotice() {
           <div className='flex-col shadow-xl shadow-gray-400 py-4 p-4 rounded-xl'>
             <h3>Dénomination ou raison sociale</h3>
             <div className='py-6'>
-              <p>BLOCKCHAIN & CIE.</p>
+              <p>BLOCKCHAIN & Jordan.</p>
             </div>
             <h3>Forme Juridique</h3>
             <div className='py-6'>
@@ -122,7 +122,7 @@ export default function LegalNotice() {
         <div className='flex justify-center py-6'>
           <div className='flex flex-col items-center'>
             <p>
-              &copy; <strong> Blockchain & Cie.</strong> | All Rights
+              &copy; <strong> Blockchain & Jordan.</strong> | All Rights
               Reserved. | Last updated: {new Date().getFullYear()}
             </p>
           </div>
